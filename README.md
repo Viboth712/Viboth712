@@ -11,6 +11,7 @@ I turn messy data into clear insights that help people make decisions. Before st
 | Project | What it shows | Tools |
 |---|---|---|
 | [**NSW Public School Equity Analysis**](https://github.com/Viboth712/nsw-school-equity-analysis) | Cleaning a 2,210-school government dataset and building five visualisations that show how geography shapes educational inequality | Python (pandas), R (ggplot2) |
+| [**Hotel Booking Cancellation Prediction**](https://github.com/Viboth712/hotel-cancellation-prediction) | Building and comparing two machine learning models that flag hotel bookings likely to cancel, from 30,000 bookings | Python (scikit-learn) |
 | [**Retail Marketing Analytics Database**](https://github.com/Viboth712/retail-marketing-analytics-sql) | Designing a 12-table relational database that links social media ads to purchases, then using SQL to answer five executive marketing questions | SQL, ERD design |
 | [**B2B Lighting Sales Analytics**](https://github.com/Viboth712/b2b-sales-analytics) | Cleaning ~2 million sales transactions (team data-cleaning lead), t-tests and regression, plus a 10-year sales performance analysis | Python (pandas, statsmodels) |
 | [**Statistical Modelling in Python**](https://github.com/Viboth712/python-regression-modelling) | Hypothesis testing and multiple linear regression with full assumption checks (R² = 0.68) | Python (SciPy, statsmodels) |
@@ -19,9 +20,9 @@ I turn messy data into clear insights that help people make decisions. Before st
 
 ### Skills
 
-- **Data & Analytics:** Python (pandas, NumPy, statsmodels) · SQL (Snowflake) · R · Advanced Excel
+- **Data & Analytics:** Python (pandas, NumPy, statsmodels, scikit-learn) · SQL (Snowflake) · R · Advanced Excel
 - **Visualisation:** Tableau · Power BI (in progress) · Matplotlib & Seaborn · ggplot2 · Salesforce Reports & Dashboards (in progress)
-- **Methods:** Data cleaning & validation · Exploratory data analysis · Hypothesis testing · Regression & forecasting · Database design · Data storytelling
+- **Methods:** Data cleaning & validation · Exploratory data analysis · Hypothesis testing · Regression & forecasting · Machine learning (classification) · Database design · Data storytelling
 
 ### Currently learning
 
