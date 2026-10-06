@@ -34,4 +34,4 @@ I turn messy data into clear insights that help people make decisions. Before st
 
 ### Connect
 
-[LinkedIn](https://www.linkedin.com/in/nouviboth-ra-792439362) · viboth.nra@gmail.com
+[LinkedIn](https://www.linkedin.com/in/nbothra) · viboth.nra@gmail.com
